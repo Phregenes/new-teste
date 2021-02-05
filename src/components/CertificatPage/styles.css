@@ -1,0 +1,12 @@
+.CertificatePage {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 30%;
+  /* background-color: black; */
+  color: black;
+}
+.hueuhe{
+  height: 100px;
+  width: 100px;
+ }

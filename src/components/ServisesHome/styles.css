@@ -1,0 +1,6 @@
+.ServisesHome {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 30px;
+}

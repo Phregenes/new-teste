@@ -1,0 +1,11 @@
+.Viewmoney {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  background: #ffffff80;
+  margin-left: 30px;
+  margin-top: -350px;
+  
+}

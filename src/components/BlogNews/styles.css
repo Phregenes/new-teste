@@ -1,0 +1,27 @@
+.block-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 5%;
+}
+
+@media screen and (max-width: 780px) {
+  .block-container{
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }}
+
+.block-works{
+  width: 300px;
+  height: 200px;
+  background-color: black;
+  margin:20px;
+  border-radius: 20px;
+}
+
+@media screen and (max-width: 780px) {
+  .block-works{
+    margin-top: 5%;
+  }}

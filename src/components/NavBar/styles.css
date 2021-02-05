@@ -1,0 +1,29 @@
+.NavBar {
+  background-image: url(../../assets/img/bgheader.png);
+  height: 70px;
+  position: relative;
+}
+
+.Menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 70px;
+}
+
+.Menu a {
+  color: white;
+text-decoration:none;
+margin: 35px;
+}
+
+.LogoMenu {
+  /* align-self: flex-end; */
+  width: 190px;
+margin-top: 90px;
+}
+
+.ComponentMenu {
+  margin-top: 15px;
+}

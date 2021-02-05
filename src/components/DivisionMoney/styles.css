@@ -1,0 +1,14 @@
+.DivisionMoney {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  background: #ffffff80;
+  height: 100px;
+  width: 300px;
+  margin-left: 30px;
+  margin-top: 10px;
+  margin-right: 10px;
+  
+}
